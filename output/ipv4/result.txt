@@ -1,20 +1,19 @@
 🕘️更新时间,#genre#
-2026-07-10 07:19:30,http://101.66.199.247:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-07-10 20:31:32,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
-CCTV-3,http://101.66.199.247:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://182.37.41.46:8154/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
+CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://182.37.41.46:8154/tsfile/live/0124_1.m3u8?key=txiptv
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
@@ -24,7 +23,6 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
-贵州卫视,http://101.66.198.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
@@ -43,6 +41,10 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 
 体育频道,#genre#
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
