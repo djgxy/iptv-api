@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-14 07:01:38,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-07-14 19:37:58,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
@@ -55,8 +55,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 
 音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
