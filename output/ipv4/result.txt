@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-17 07:03:58,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2026-07-17 19:26:04,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -11,6 +11,8 @@ CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
+CCTV-9,http://182.37.41.46:8154/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
@@ -24,6 +26,7 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+安徽卫视,http://182.37.41.46:8154/tsfile/live/0130_1.m3u8?key=txiptv
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
@@ -33,10 +36,12 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
+江苏卫视,http://drive.mxmy.net:8888/udp/239.3.1.135:8028
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
+天津卫视,http://drive.mxmy.net:8888/udp/239.3.1.141:1234
 
 港·澳·台,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
