@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-28 04:18:29,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-08-28 14:04:26,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.105:8092
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
@@ -44,7 +44,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-经典电影,https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 
 体育频道,#genre#
