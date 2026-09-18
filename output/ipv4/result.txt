@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 08:02:48,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
+2026-09-18 22:19:19,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
 
 央视频道,#genre#
 CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
@@ -8,7 +8,6 @@ CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
 CCTV-9,http://drive.mxmy.net:8888/udp/239.3.1.62:8112
-CCTV-9,http://101.66.198.207:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://drive.mxmy.net:8888/udp/239.3.1.63:8116
 CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-15,http://drive.mxmy.net:8888/udp/239.3.1.153:8136
@@ -24,7 +23,6 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 湖北卫视,http://drive.mxmy.net:8888/udp/239.3.1.138:8044
 黑龙江卫视,http://drive.mxmy.net:8888/udp/239.3.1.133:8016
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 吉林卫视,http://drive.mxmy.net:8888/udp/239.3.1.240:8172
@@ -40,8 +38,8 @@ CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
