@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-19 21:50:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-20 08:02:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -617,7 +617,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv
 星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
@@ -627,6 +626,7 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=0d47e2750a96d126de68b06a2fcb168481e92a21087134e39c0b69994fb9c83c%3A1763342477%3ANTIuMTczLjIzNy4yMTE%3D
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=9b66dc4f4ffc47ae01aa9f7484753c8ee9002debf9cb3073fcabdff8976e77f5%3A1763428767%3ANDAuMTE2LjkyLjEyMw%3D%3D
 
 体育频道,#genre#
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
@@ -645,6 +645,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 经典剧场,#genre#
